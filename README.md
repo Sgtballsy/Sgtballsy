@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sgtballsy
-- 👀 I’m interested in Learning Coding
-- 🌱 I’m currently learning C++, Java, SQL, Html
-- 💞️ I’m looking to collaborate on nothing (ATM)
-- 📫 How to reach me ...
+Hi, Myself Mohammed Yazir P A under the name Sgtballsy. I use this account to post some projects that I've created with and without help to Document my journey
+-I currently know Python and C#. I also know the basics of Javascript and SQL
+-I'm Currently Working to develop skills in Pytorch
+-I am currently enrolled in a Bachelors Degree of CS(AI/ML)
 
-<!---
-Sgtballsy/Sgtballsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
